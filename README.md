@@ -1,5 +1,7 @@
 # Twittercard Website
 
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/LimJY03/twittercard-website/pages%20build%20and%20deployment/main?label=gh-pages%20build)
+
 This repository builds the website to generate Twittercard from real Tweets on [**Twitter**](https://twitter.com/). This project is an open source project with the combination of:
 
 * [**Twittercard repository by genesis331**](https://github.com/genesis331/twittercard) (builds API)
