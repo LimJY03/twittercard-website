@@ -12,11 +12,11 @@ Firstly, get the URL of the tweet that you wish to convert into a Twittercard.
 
 Next, head to the website **https://limjy03.github.io/twittercard-website/**, and paste the URL at the input box.
 
-You can freely choose the theme that you want by clicking the **sun icon** button to generate switch theme of both the website and the Twittercard generated.
+You can freely choose the theme that you want by clicking the **`sun icon`** button to generate switch theme of both the website and the Twittercard generated.
 
-Click the **GENERATE TWITTER CARD** button to generate the Twittercard.
+Click the **`GENERATE TWITTER CARD`** button to generate the Twittercard.
 
-Finally, click the **download** icon to download the generated Twittercard.
+Finally, click the **`download`** icon to download the generated Twittercard.
 
 > **Note**
-> <br>You may also **right-click** at the generated Twittercard to **save** the Twittercard instead of using the **download** icon.
+> <br>You may also **right-click** at the generated Twittercard to **save** the Twittercard instead of using the **`download`** icon.
