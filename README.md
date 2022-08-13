@@ -3,7 +3,7 @@
 This repository builds the website to generate Twittercard from real Tweets on [**Twitter**](https://twitter.com/). This project is an open source project with the combination of:
 
 * [**Twittercard repository by genesis331**](https://github.com/genesis331/twittercard) (builds API)
-* [**This current repository**]() (builds website) 
+* [**This current repository**](https://github.com/LimJY03/twittercard-website) (builds website) 
 
 ## Introduction
 
