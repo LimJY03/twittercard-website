@@ -39,10 +39,24 @@
     vertical-align: middle;
 }
 
-.button-switch-theme > img {
+.button-switch-theme > svg {
     height: 80%;
     width: 80%;
     vertical-align: middle;
+}
+
+.button-onhover {
+    transition: 0.3s ease-in-out;
+}
+
+.button-onhover > svg {
+    fill: currentColor;
+}
+
+.button-onhover:hover {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    transition: 0.3s ease-in-out;
 }
   
 .button-download {
@@ -55,7 +69,7 @@
     right: 0;
 }
 
-.button-download > img {
+.button-download > svg {
     width: 2vw;
     height: 2vw;
 }
@@ -121,6 +135,13 @@
     width: 16px;
     height: 16px;
 }
+
+.themeElem {    
+    transition: 0.4s ease-in-out;
+}
+.themeElem-2 {    
+    transition: 0.2s ease-in-out;
+}
   
 /* Theming: Light */
 .light-text {
@@ -164,7 +185,6 @@ input {
     border-radius: 30px;
     color: black;
     background-color: #efefef;
-    box-shadow: 0 0 20px 0 rgba(21, 32, 43, 25%);
 }
 
 hr {
