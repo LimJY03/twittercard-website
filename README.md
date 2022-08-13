@@ -1,6 +1,9 @@
 # Twittercard Website
 
-This repository builds the website to generate Twittercard from real Tweets on [**Twitter**](https://twitter.com/). This project is an open source project with the combination of this repository that builds the website and [**twittercard repository by genesis331**](https://github.com/genesis331/twittercard) that builds the API.
+This repository builds the website to generate Twittercard from real Tweets on [**Twitter**](https://twitter.com/). This project is an open source project with the combination of:
+
+* [**Twittercard repository by genesis331**](https://github.com/genesis331/twittercard) (builds API)
+* [**This current repository**]() (builds website) 
 
 ## Introduction
 
@@ -19,4 +22,4 @@ Click the `GENERATE TWITTER CARD` button to generate the Twittercard.
 Finally, click the `download` icon to download the generated Twittercard.
 
 > **Note**
-> <br>You may also **right-click** at the generated Twittercard to **save** the Twittercard instead of using the `download` icon.
+> <br>You may also **right-click** the generated Twittercard to **save** the Twittercard instead of using the `download` icon.
