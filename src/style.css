@@ -17,8 +17,8 @@
   
 .button-generate {
     height: 5vh;
-    margin-right: 4vh;
-    padding: 0 4vh;
+    margin-right: 4vw;
+    padding: 0 4vw;
     font-size: inherit;
     cursor: pointer;
     border: 0px;
@@ -93,7 +93,7 @@
     position: fixed;
     float: left;
     margin-top: 16vh;
-    margin-left: 5vh;
+    margin-left: 5vw;
     margin-right: -100vh;
     text-align: left;
     font-size: 14px;
@@ -104,8 +104,6 @@
     display: None;
     margin-bottom: 6vh;
     text-align: center;
-    font-size: 14px;
-    font-weight: 400;
 }
 
 [class*="avatar-"] {
@@ -176,7 +174,7 @@ body {
 }
   
 input {
-    width: 50vh;
+    width: 50vw;
     padding: 1.8vh 4vh 1.4vh;
     font-size: inherit;
     font-weight: 400;
@@ -204,6 +202,15 @@ a {
 
 /* Media Query */
 @media only screen and (max-width: 768px) {
+
+    body {
+        font-size: 12px;
+    }
+
+    .button-download > svg {
+        width: 2vh;
+        height: 2vh;
+    }
     
     .contributors-large {
         display: None;
@@ -223,8 +230,10 @@ a {
     }
 
     [class*="avatar-"] {
-        margin-left: 0.75vh;
-        margin-right: 0.75vh;
+        height: 3vh;
+        width: 3vh;
+        margin-left: 0.75vw;
+        margin-right: 0.75vw;
     }
 
     .contributor-small-list {
